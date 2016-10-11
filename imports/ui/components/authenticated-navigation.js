@@ -16,7 +16,7 @@ const trigger = (
     <Icon name='user' />
     Hello, Bob
   </span>
-)
+);
 
 export const AuthenticatedNavigation = () => (
   <Dropdown trigger={trigger}>
